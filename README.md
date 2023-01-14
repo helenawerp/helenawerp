@@ -1,9 +1,9 @@
 ## Hi there 👋 I'm Helena 💭
 
-### Data Engineer and Developer at Mnemonic AS 👩‍💻 (soon to be) Computer Science graduate from University Of Kent 👩‍🎓
+### Data Engineer and Developer at Mnemonic AS 👩‍💻 & (soon to be) Computer Science graduate from University Of Kent 👩‍🎓
 🌱 I mainly work in Java, but also have experience with languages like Python, C#, C++ ...
 
-✨ This GitHub is not used a lot, but feel free to browse whatever is here anyways! 
+✨ This GitHub is not used a lot, but feel free to browse whatever is on here! 
 
 🥂 Contact me at helenawerp@gmail.com
 
